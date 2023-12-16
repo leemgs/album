@@ -29,6 +29,7 @@ comments :
 
 # Internal nav
 nav:
+  - HOME: "https://leemgs.github.io/photorama//"  
   - GALLERY: "https://leemgs.github.io/photorama/gallery/"  
   - ABOUT: "https://leemgs.github.io/photorama/about/"
 

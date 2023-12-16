@@ -1,10 +1,10 @@
 {
   "name": "photorama",
-  "description": "Photo Journal",
+  "description": "Photo Gallery",
   "main": "index.html",
   "moduleType": [],
   "authors": [
-    "Anna Prigkipaki"
+    "Geunsik Lim"
   ],
   "license": "Apache-2.0",
   "homepage": "",

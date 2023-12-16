@@ -1,13 +1,12 @@
 # Site settings
-title: PHOTORAMA
+title: Geunsik's Photorama
 email: ""
 description: "Photo Journal"
 url: "https://leemgs.github.io"
 baseurl: "/photorama"
 facebook_username: "leemgs"
 twitter_username: "leemgs"
-instagram_username: ""
-github_username:  "leemgs"
+github_username:  "leemgs/photorama"
 share: true
 
 # Owner/author information
@@ -48,10 +47,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+# paginate_path: "/journal/page:num/"
+# permalink: "/journal/:title/"
+# categories_path: "/journal/category/"
+# tags_path: "/journal/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

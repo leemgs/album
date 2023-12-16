@@ -2,15 +2,12 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
+url: "https://leemgs.github.io"
 baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
+facebook_username: "leemgs"
+twitter_username: "leemgs"
 instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+github_username:  "leemgs"
 share: true
 
 # Owner/author information
@@ -22,7 +19,7 @@ owner:
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
-# Set 'provider' to false to turn commenting off globally.
+# Set 'provider' to false to turn the comment off globally.
 #Set 'provider: false' to disable comments globally.
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
@@ -33,9 +30,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://leemgs.github.io/photorama/gallery/"  
+  - ABOUT: "https://leemgs.github.io/photorama/about/"
 
 # All translation keys
 translations:
